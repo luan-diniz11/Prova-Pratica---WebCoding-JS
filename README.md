@@ -1,2 +1,2 @@
 # Prova-Pratica---WebCoding-JS
-Prova Pratica - JavaScript - Diciplina: Web Coding
+Desenvolvendo o Script para Simulação de Pedidos em uma Pizzaria
